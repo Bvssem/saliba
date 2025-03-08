@@ -1,4 +1,4 @@
-# hello-worldsamalapa
+# hello-worldsamalapachagui
 Hello World repository for Git tutorial 1
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
